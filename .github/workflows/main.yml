@@ -25,4 +25,4 @@ jobs:
       - name: Compile and run some C code
         run: |
           cl.exe hello.c
-          hello.exe
+
