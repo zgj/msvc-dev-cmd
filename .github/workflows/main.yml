@@ -26,5 +26,5 @@ jobs:
         run: |
           cl.exe hello.c
           dir .
-          hello.exe
+          .\hello.exe
 
